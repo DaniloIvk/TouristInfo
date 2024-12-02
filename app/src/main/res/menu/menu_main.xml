@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sort_locations"
+        android:title="@string/sort_locations" />
+    <item
+        android:id="@+id/filter_locations"
+        android:title="@string/filter_locations" />
+</menu>

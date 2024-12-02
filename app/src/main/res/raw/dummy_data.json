@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Beograd",
+    "description": "Glavni grad Srbije",
+    "contactInfo": "011-123456",
+    "workingHours": "8:00 - 19:00",
+    "image": "bg"
+  },
+  {
+    "name": "Novi Sad",
+    "description": "Grad kulture",
+    "contactInfo": "021-654321",
+    "workingHours": "8:00 - 18:00",
+    "image": "ns"
+  },
+  {
+    "name": "Niš",
+    "description": "Grad sa bogatom istorijom",
+    "contactInfo": "018-777888",
+    "workingHours": "9:00 - 18:00",
+    "image": "ni"
+  },
+  {
+    "name": "Kragujevac",
+    "description": "Najveći grad Šumadije i zapadne Srbije",
+    "contactInfo": "034-340004",
+    "workingHours": "9:00 - 17:00",
+    "image": "kg"
+  }
+]

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tourist Info</string>
+    <string name="show_details">Show details</string>
+    <string name="location_image_content_description">Location preview</string>
+    <string name="location_not_chosen_toast">Please choose a location.</string>
+    <!-- Menu items -->
+    <string name="sort_locations">Sort</string>
+    <string name="filter_locations">Filter</string>
+    <!-- Placeholders -->
+    <string name="location_name_placeholder">Location</string>
+    <string name="location_description_placeholder">Description</string>
+    <string name="location_contact_info_placeholder">Phone number</string>
+    <string name="location_working_hours_placeholder">Working hours</string>
+</resources>
